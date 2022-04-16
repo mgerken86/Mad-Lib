@@ -1,0 +1,30 @@
+* {
+    display: absolute;
+    text-align: center;
+    font-family: 'Fjalla One';
+    font-size: 40px;
+    align-items: center;
+    justify-items: center;
+    vertical-align: center;
+  }
+  
+  body {
+    background: linear-gradient(90deg, #8533ff, #66ffff, #8533ff);
+  }
+  .button {
+    padding: 10px 40px;
+    background-color: orange;
+    
+  }
+  input {
+    font-size: 30px;
+    color: black;
+  }
+  span {
+    background: white;
+    color: red;
+    border-bottom: 2px black solid;
+    font-family: 'Shadows Into Light';
+    padding: 0 6px;
+    margin: 4px;
+  }
